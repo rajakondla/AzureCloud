@@ -22,7 +22,7 @@ namespace PsTrafficAPI.Controllers
         // GET api/values/5
         [HttpGet("{id}")]
         [ProducesResponseType(200), ProducesResponseType(404)]
-        public ActionResult<Course> Get(int id)
+        public ActionResult<Course> GetById(int id)
         {
             Course course= new CourseData().GetById(id);
             if(course==null)
