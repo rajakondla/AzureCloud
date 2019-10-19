@@ -1,0 +1,14 @@
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.csprojAssemblyReference.cache
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.csproj.CoreCompileInputs.cache
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.RazorAssemblyInfo.cache
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.RazorAssemblyInfo.cs
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.AssemblyInfoInputs.cache
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.AssemblyInfo.cs
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\bin\Debug\netcoreapp2.2\PsTrafficAPI.deps.json
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\bin\Debug\netcoreapp2.2\PsTrafficAPI.runtimeconfig.json
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\bin\Debug\netcoreapp2.2\PsTrafficAPI.runtimeconfig.dev.json
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\bin\Debug\netcoreapp2.2\PsTrafficAPI.dll
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\bin\Debug\netcoreapp2.2\PsTrafficAPI.pdb
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.RazorTargetAssemblyInfo.cache
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.dll
+E:\Angular5\.Net Core Web API\Windows Azure\Scalability\SampleAPI\PsTrafficAPI\PsTrafficAPI\obj\Debug\netcoreapp2.2\PsTrafficAPI.pdb
