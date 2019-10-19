@@ -20,7 +20,7 @@ namespace PsTrafficAPI.Controllers
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
+        [HttpGet("GetById/{id}")]
         [ProducesResponseType(200), ProducesResponseType(404)]
         public ActionResult<Course> GetById(int id)
         {
